@@ -3,7 +3,7 @@
 ## Description:
 A React app using an API call to `upsplash.com` to render pictures using the search bar. This is another small project to practice using React.
 
-Here is a small overview of what skills I applied: 
+Here is an overview of what skills I applied: 
 - `Events` 
 - `useState`
 - `Event Handlers`
